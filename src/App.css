@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -25,4 +25,20 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+} */
+@media (min-width: 768px){
+  .navbar {
+    border-radius: 0px;
 }
+}
+.brandImage-wrapper{
+  height: 30px;
+  width: 30px;
+}
+.brandImage{
+  height: 50px;
+  float: left;
+  
+}
+
+
